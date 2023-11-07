@@ -1,4 +1,4 @@
-# A-Machine-Learning-Approach-to-Visual-Perception-of-Forest-Trails-for-Mobile-Robots
+# A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots
 
 This is a pytorch implementation inspired by the paper "A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots, A. Giusti et al."
 
